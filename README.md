@@ -1,5 +1,19 @@
 # animation_list_test
 
+
+Install animation_list library
+
+ $ flutter pub add animation_list
+
+or  add  to your package's pubspec.yaml  :
+
+dependencies:
+  animation_list: ^3.0.0
+
+
+
+  
+
 A new Flutter project.
 
 ## Getting Started
